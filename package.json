@@ -1,0 +1,23 @@
+{
+  "name": "socmedmon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "moment": "^2.18.1",
+    "mysql": "^2.13.0",
+    "parseuri": "0.0.5",
+    "redis": "^2.7.1",
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3",
+    "twitter-stream-channels": "^1.0.0"
+  }
+}

@@ -3,7 +3,7 @@ module.exports = {
         host:'localhost',
         database:'socmed_monitor',
         user:'root',
-        password:'bronzecopper'
+        password:'foo'
     },
     socket_server:{
         host:'http://localhost:3000'
